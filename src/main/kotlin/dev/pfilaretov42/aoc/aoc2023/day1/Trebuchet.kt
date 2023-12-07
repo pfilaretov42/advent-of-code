@@ -4,7 +4,7 @@ import java.io.File
 
 
 fun main() {
-    val calibrationFile = File("input/2023/day1/trebuchet-input")
+    val calibrationFile = File("input/2023/day1/input")
 //    partOne(calibrationFile)
     partTwo(calibrationFile)
 
